@@ -4,6 +4,8 @@ title: "intellij 的常用快捷键"
 categories: IDE
 ---
 
+关于 Intellij (JetBrains) IDE 的常用快捷键
+
 ## 编辑
 
 Ctrl + Y 删除光标所在行 或 删除选中的行      
