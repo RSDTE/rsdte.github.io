@@ -1,9 +1,9 @@
-- title: About
-  url: /about/
 - title: Years
   url: /years/
 - title: Categories
   url: /categories/
+- title: About
+  url: /about/
 # - title: Tags
 #   url: /tags/
 # - title: More
