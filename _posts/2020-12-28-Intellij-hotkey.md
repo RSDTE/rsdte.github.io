@@ -1,31 +1,31 @@
 ## 编辑
 
-Ctrl + Y 删除光标所在行 或 删除选中的行
-Ctrl + X 剪切光标所在行 或 剪切选择内容
-Ctrl + C 复制光标所在行 或 复制选择内容
-Ctrl + D 复制光标所在行 或 复制选择内容，并把复制内容插入光标位置下面
+Ctrl + Y 删除光标所在行 或 删除选中的行  
+Ctrl + X 剪切光标所在行 或 剪切选择内容  
+Ctrl + C 复制光标所在行 或 复制选择内容  
+Ctrl + D 复制光标所在行 或 复制选择内容，并把复制内容插入光标位置下面  
 
-Ctrl + P 方法参数提示显示
+Ctrl + P 方法参数提示显示  
 
-Shift + Enter 开始新一行。光标所在行下空出一行，光标定位到新行位置
+Shift + Enter 开始新一行。光标所在行下空出一行，光标定位到新行位置  
 
-Ctrl + O 选择可重写的方法
-Ctrl + I 选择可继承的方法
-Ctrl + + 展开代码
-Ctrl + - 折叠代码
-Ctrl + Shift + +  展开所有代码
-Ctrl + Shift + -   折叠所有代码
-Ctrl + /  行注释
-Ctrl + Shift + / 块注释
+Ctrl + O 选择可重写的方法  
+Ctrl + I 选择可继承的方法  
+Ctrl + + 展开代码  
+Ctrl + - 折叠代码  
+Ctrl + Shift + +  展开所有代码  
+Ctrl + Shift + -   折叠所有代码  
+Ctrl + /  行注释  
+Ctrl + Shift + / 块注释  
 
-Alt + Enter IntelliJ IDEA 根据光标所在问题，提供快速修复选择，光标放在的位置不同提示的结果也不同
-Alt + Insert 代码自动生成，如生成对象的 set / get 方法，构造函数，toString() 等
+Alt + Enter IntelliJ IDEA 根据光标所在问题，提供快速修复选择，光标放在的位置不同提示的结果也不同  
+Alt + Insert 代码自动生成，如生成对象的 set / get 方法，构造函数，toString() 等  
 
-Ctrl + Shift + B 跳转到类型声明处
-Ctrl + Shift + I 快速查看光标所在的方法 或 类的定义
+Ctrl + Shift + B 跳转到类型声明处  
+Ctrl + Shift + I 快速查看光标所在的方法 或 类的定义  
 
-Shift + F2 跳转到上一个高亮错误 或 警告位置
-F2 跳转到下一个高亮错误 或 警告位置
+Shift + F2 跳转到上一个高亮错误 或 警告位置  
+F2 跳转到下一个高亮错误 或 警告位置  
 
 ## 调试
 
